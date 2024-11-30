@@ -1,5 +1,5 @@
 {
     "files.autoSave": "onWindowChange",
     "scm.alwaysShowActions": true,
-    "scm.alwaysShowRepositories": true
+    "scm.alwaysShowRepositories": true, 
 }
